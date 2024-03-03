@@ -7,6 +7,7 @@
     "Capital": "Πόλη του Αγίου Μαρίνου",
     "Language": ["Ιταλικά"],
     "Country Code": "sm",
+    "article": "του Αγίου Μαρίνου",
     "eu": true
   },
   {
@@ -17,6 +18,7 @@
     "Capital": "Μπακού",
     "Language": ["Αζερικά"],
     "Country Code": "az",
+    "article": "του Αζερμπαϊτζάν",
     "eu": false
   },
   {
@@ -27,6 +29,7 @@
     "Capital": "Τίρανα",
     "Language": ["Αλβανικά"],
     "Country Code": "al",
+    "article": "της Αλβανίας",
     "eu": false
   },
   {
@@ -37,6 +40,7 @@
     "Capital": "Ανδόρρα λα Βέλια",
     "Language": ["Καταλανικά"],
     "Country Code": "ad",
+    "article": "της Ανδόρρας",
     "eu": true
   },
   {
@@ -47,6 +51,7 @@
     "Capital": "Γερεβάν",
     "Language": ["Αρμενικά"],
     "Country Code": "am",
+    "article": "της Αρμενίας",
     "eu": false
   },
   {
@@ -57,6 +62,7 @@
     "Capital": "Βιέννη",
     "Language": ["Γερμανικά"],
     "Country Code": "at",
+    "article": "της Αυστρίας",
     "eu": true
   },
   {
@@ -67,6 +73,7 @@
     "Capital": "Πόλη του Βατικανού",
     "Language": ["Ιταλικά"],
     "Country Code": "va",
+    "article": "του Βατικανού",
     "eu": false
   },
   {
@@ -77,6 +84,7 @@
     "Capital": "Βρυξέλλες",
     "Language": ["Ολλανδικά", "Γαλλικά", "Γερμανικά"],
     "Country Code": "be",
+    "article": "του Βελγίου",
     "eu": true
   },
   {
@@ -87,6 +95,7 @@
     "Capital": "Σκόπια",
     "Language": ["Σλαβομακεδονικά"],
     "Country Code": "mk",
+    "article": "της Βόρειας Μακεδονίας",
     "eu": false
   },
   {
@@ -97,6 +106,7 @@
     "Capital": "Σαράγεβο",
     "Language": ["Βοσνιακά", "Κροατικά", "Σερβικά"],
     "Country Code": "ba",
+    "article": "της Βοσνίας και Ερζεγοβίνης",
     "eu": false
   },
   {
@@ -107,6 +117,7 @@
     "Capital": "Σόφια",
     "Language": ["Βουλγαρικά"],
     "Country Code": "bg",
+    "article": "της Βουλγαρίας",
     "eu": true
   },
   {
@@ -117,6 +128,7 @@
     "Capital": "Παρίσι",
     "Language": ["Γαλλικά"],
     "Country Code": "fr",
+    "article": "της Γαλλίας",
     "eu": true
   },
   {
@@ -127,6 +139,7 @@
     "Capital": "Βερολίνο",
     "Language": ["Γερμανικά"],
     "Country Code": "de",
+    "article": "της Γερμανίας",
     "eu": true
   },
   {
@@ -137,6 +150,7 @@
     "Capital": "Τιφλίδα",
     "Language": ["Γεωργιανά"],
     "Country Code": "ge",
+    "article": "της Γεωργίας",
     "eu": false
   },
   {
@@ -147,6 +161,7 @@
     "Capital": "Κοπεγχάγη",
     "Language": ["Δανική"],
     "Country Code": "dk",
+    "article": "της Δανίας",
     "eu": true
   },
   {
@@ -157,6 +172,7 @@
     "Capital": "Βέρνη",
     "Language": ["Γερμανικά", "Γαλλικά", "Ιταλικά", "Ραιτορωμανικά"],
     "Country Code": "ch",
+    "article": "της Ελβετίας",
     "eu": false
   },
   {
@@ -167,6 +183,7 @@
     "Capital": "Αθήνα",
     "Language": ["Ελληνικά"],
     "Country Code": "gr",
+    "article": "της Ελλάδας",
     "eu": true
   },
   {
@@ -177,6 +194,7 @@
     "Capital": "Τάλιν",
     "Language": ["Εσθονικά"],
     "Country Code": "ee",
+    "article": "της Εσθονίας",
     "eu": true
   },
   {
@@ -187,6 +205,7 @@
     "Capital": "Λονδίνο",
     "Language": ["Αγγλικά"],
     "Country Code": "gb",
+    "article": "του Ηνωμένου Βασιλείου",
     "eu": false
   },
   {
@@ -197,6 +216,7 @@
     "Capital": "Δουβλίνο",
     "Language": ["Ιρλανδικά","Αγγλικά"],
     "Country Code": "ie",
+    "article": "της Ιρλανδίας",
     "eu": true
   },
   {
@@ -207,6 +227,7 @@
     "Capital": "Ρέικιαβικ",
     "Language": ["Ισλανδικά"],
     "Country Code": "is",
+    "article": "της Ισλανδίας",
     "eu": false
   },
   {
@@ -217,6 +238,7 @@
     "Capital": "Μαδρίτη",
     "Language": ["Ισπανικά"],
     "Country Code": "es",
+    "article": "της Ισπανίας",
     "eu": true
   },
   {
@@ -227,6 +249,7 @@
     "Capital": "Ρώμη",
     "Language": ["Ιταλικά"],
     "Country Code": "it",
+    "article": "της Ιταλίας",
     "eu": true
   },
   {
@@ -237,6 +260,7 @@
     "Capital": "Νουρ-Σουλτάν",
     "Language": ["Καζακικά"],
     "Country Code": "kz",
+    "article": "του Καζακστάν",
     "eu": false
   },
   {
@@ -247,6 +271,7 @@
     "Capital": "Ζάγκρεμπ",
     "Language": ["Κροατικά"],
     "Country Code": "hr",
+    "article": "της Κροατίας",
     "eu": true
   },
   {
@@ -257,6 +282,7 @@
     "Capital": "Λευκωσία",
     "Language": ["Eλληνικά", "Τουρκικά"],
     "Country Code": "cy",
+    "article": "της Κύπρου",
     "eu": true
   },
   {
@@ -267,6 +293,7 @@
     "Capital": "Ρίγα",
     "Language": ["Λετονικά"],
     "Country Code": "lv",
+    "article": "της Λετονίας",
     "eu": true
   },
   {
@@ -277,6 +304,7 @@
     "Capital": "Μινσκ",
     "Language": ["Λευκορωσικά", "Ρωσικά"],
     "Country Code": "by",
+    "article": "της Λευκορωσίας",
     "eu": false
   },
   {
@@ -287,6 +315,7 @@
     "Capital": "Βίλνιους",
     "Language": ["Λιθουανικά"],
     "Country Code":  "lt",
+    "article": "της Λιθουανίας",
     "eu": true
   },
   {
@@ -297,6 +326,7 @@
     "Capital": "Βαντούζ",
     "Language": ["Γερμανικά"],
     "Country Code": "li",
+    "article": "του Λίχτενσταϊν",
     "eu": false
   },
   {
@@ -307,6 +337,7 @@
     "Capital": "Λουξεμβούργο",
     "Language": ["Λουξεμβουργιανά", "Γερμανικά", "Γαλλικά"],
     "Country Code": "lu",
+    "article": "του Λουξεμβούργου",
     "eu": true
   },
   {
@@ -317,6 +348,7 @@
     "Capital": "Βαλέτα",
     "Language": ["Μαλτέζικα", "Αγγλικά"],
     "Country Code": "mt",
+    "article": "της Μάλτας",
     "eu": true
   },
   {
@@ -327,6 +359,7 @@
     "Capital": "Ποντγκόριτσα",
     "Language": ["Μαυροβουνιακά"],
     "Country Code": "me",
+    "article": "του Μαυροβουνίου",
     "eu": false
   },
   {
@@ -337,6 +370,7 @@
     "Capital": "Κισινάου",
     "Language": ["Μολδαβικά"],
     "Country Code":  "md",
+    "article": "της Μολδαβίας",
     "eu": false
   },
   {
@@ -347,6 +381,7 @@
     "Capital": "Μονακό",
     "Language": ["Γαλλικά"],
     "Country Code": "mc",
+    "article": "του Μονακό",
     "eu": false
   },
   {
@@ -357,6 +392,7 @@
     "Capital": "Όσλο",
     "Language": ["Νορβηγικά"],
     "Country Code": "no",
+    "article": "της Νορβηγίας",
     "eu": false
   },
   {
@@ -367,6 +403,7 @@
     "Capital": "Άμστερνταμ",
     "Language": ["Ολλανδικά"],
     "Country Code": "nl",
+    "article": "της Ολλανδίας",
     "eu": true
   },
   {
@@ -377,6 +414,7 @@
     "Capital": "Βουδαπέστη",
     "Language": ["Ουγγρικά"],
     "Country Code": "hu",
+    "article": "της Ουγγαρίας",
     "eu": true
   },
   {
@@ -387,6 +425,7 @@
     "Capital": "Κίεβο",
     "Language": ["Ουκρανικά"],
     "Country Code": "ua",
+    "article": "της Ουκρανίας",
     "eu": false
   },
   {
@@ -397,6 +436,7 @@
     "Capital": "Βαρσοβία",
     "Language": ["Πολωνικά"],
     "Country Code": "pl",
+    "article": "της Πολωνίας",
     "eu": true
   },
   {
@@ -407,6 +447,7 @@
     "Capital": "Λισαβόνα",
     "Language": ["Πορτογαλικά"],
     "Country Code": "pt",
+    "article": "της Πορτογαλίας",
     "eu": true
   },
   {
@@ -417,6 +458,7 @@
     "Capital": "Βουκουρέστι",
     "Language": ["Ρουμανικά"],
     "Country Code": "ro",
+    "article": "της Ρουμανίας",
     "eu": true
   },
   {
@@ -427,6 +469,7 @@
     "Capital": "Μόσχα",
     "Language": ["Ρωσικά"],
     "Country Code": "ru",
+    "article": "της Ρωσίας",
     "eu": false
   },
   {
@@ -437,6 +480,7 @@
     "Capital": "Βελιγράδι",
     "Language": ["Σερβικά"],
     "Country Code": "rs",
+    "article": "της Σερβίας",
     "eu": false
   },
   {
@@ -447,6 +491,7 @@
     "Capital": "Μπρατισλάβα",
     "Language": ["Σλοβακικά"],
     "Country Code": "sk",
+    "article": "της Σλοβακίας",
     "eu": true
   },
   {
@@ -457,6 +502,7 @@
     "Capital": "Λιουμπλιάνα",
     "Language": ["Σλοβενικά"],
     "Country Code": "si",
+    "article": "της Σλοβενίας",
     "eu": true
   },
   {
@@ -467,6 +513,7 @@
     "Capital": "Στοκχόλμη",
     "Language": ["Σουηδικά"],
     "Country Code": "se",
+    "article": "της Σουηδίας",
     "eu": true
   },
   {
@@ -477,6 +524,7 @@
     "Capital": "Άγκυρα",
     "Language": ["Τουρκικά"],
     "Country Code": "tr",
+    "article": "της Τουρκίας",
     "eu": false
   },
   {
@@ -487,6 +535,7 @@
     "Capital": "Πράγα",
     "Language": ["Τσεχικά"],
     "Country Code": "cz",
+    "article": "της Τσεχίας",
     "eu": true
   },
   {
@@ -497,6 +546,7 @@
     "Capital": "Ελσίνκι",
     "Language": ["Φινλανδικά"],
     "Country Code": "fi",
+    "article": "της Φινλανδίας",
     "eu": true
   }
 ]
